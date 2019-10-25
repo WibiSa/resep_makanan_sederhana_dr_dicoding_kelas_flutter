@@ -4,9 +4,9 @@ final List<Container> listDataMakanan = new List();
 
 var makanan = [
   {
-    'nama': 'Nasi Goreng',
-    'gambar': 'lib/gambar/nasiGoreng.jpg',
-    'deskripsi': nasiGoreng
+    'nama': 'Ketupat',
+    'gambar': 'lib/gambar/ketupat.jpg',
+    'deskripsi': Ketupat
   },
   {'nama': 'Bakso', 'gambar': 'lib/gambar/bakso.png', 'deskripsi': bakso},
   {
@@ -35,10 +35,8 @@ var makanan = [
   {'nama': 'Soto', 'gambar': 'lib/gambar/soto.jpg', 'deskripsi': soto},
 ];
 
-String nasiGoreng =
-    'Nasi goreng adalah sebuah makanan berupa nasi yang digoreng dan diaduk dalam minyak goreng atau margarin,'
-    'biasanya ditambah kecap manis, bawang merah, bawang putih, asam jawa, lada dan bumbu-bumbu lainnya,'
-    'seperti telur, ayam, dan kerupuk. Ada pula nasi goreng jenis lain yang dibuat bersama ikan asin yang juga populer di seluruh Indonesia.';
+String Ketupat =
+    'Ketupat hidangan khas Asia Tenggara maritim berbahan dasar beras yang dibungkus dengan pembungkus terbuat dari anyaman daun kelapa muda (janur), atau kadang-kadang dari daun palma yang lain.';
 String bakso =
     'Bakso atau baso adalah jenis bola daging yang lazim ditemukan pada masakan Indonesia.'
     'Bakso umumnya dibuat dari campuran daging sapi giling dan tepung tapioka, '
