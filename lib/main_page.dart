@@ -56,7 +56,7 @@ class _MainScreenState extends State<MainScreen> {
       appBar: AppBar(
           backgroundColor: Colors.orange[100],
           title: Text(
-            'Makanan Hits',
+            'Menu Makanan',
             style: TextStyle(color: Colors.brown),
           )),
       body: GridView.count(

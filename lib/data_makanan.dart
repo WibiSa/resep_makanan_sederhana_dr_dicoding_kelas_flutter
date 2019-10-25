@@ -4,9 +4,9 @@ final List<Container> listDataMakanan = new List();
 
 var makanan = [
   {
-    'nama': 'Ketupat',
-    'gambar': 'lib/gambar/ketupat.jpg',
-    'deskripsi': Ketupat
+    'nama': 'pecel',
+    'gambar': 'lib/gambar/pecel.jpg',
+    'deskripsi': pecel
   },
   {'nama': 'Bakso', 'gambar': 'lib/gambar/bakso.png', 'deskripsi': bakso},
   {
@@ -35,8 +35,8 @@ var makanan = [
   {'nama': 'Soto', 'gambar': 'lib/gambar/soto.jpg', 'deskripsi': soto},
 ];
 
-String Ketupat =
-    'Ketupat hidangan khas Asia Tenggara maritim berbahan dasar beras yang dibungkus dengan pembungkus terbuat dari anyaman daun kelapa muda (janur), atau kadang-kadang dari daun palma yang lain.';
+String pecel =
+    'pecel adalah makana yang berisi lontong, kangkung, dan toge. Lalu di tuangkan bumbu kacang atasnya dan ditambbah kecap sedikit';
 String bakso =
     'Bakso atau baso adalah jenis bola daging yang lazim ditemukan pada masakan Indonesia.'
     'Bakso umumnya dibuat dari campuran daging sapi giling dan tepung tapioka, '
