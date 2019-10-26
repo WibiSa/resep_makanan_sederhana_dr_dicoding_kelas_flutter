@@ -52,6 +52,9 @@ flutter:
     - lib/gambar/rujakcingur.jpg
     - lib/gambar/sate.jpg
     - lib/gambar/soto.jpg
+    - lib/gambar/pecel.jpg
+    - lib/gambar/nasibalap.jpeg
+    - lib/gambar/nasirawon.jpg
   #  - images/a_dot_burr.jpeg
   #  - images/a_dot_ham.jpeg
 
