@@ -33,6 +33,16 @@ var makanan = [
   },
   {'nama': 'Sate', 'gambar': 'lib/gambar/sate.jpg', 'deskripsi': sate},
   {'nama': 'Soto', 'gambar': 'lib/gambar/soto.jpg', 'deskripsi': soto},
+  {
+    'nama' : 'nasi rawon',
+    'gambar' : 'lib/gambar/nasirawon.jpg',
+    'deskripsi' : nasirawon
+  },
+  {
+    'nama' : 'nasi balap puyung',
+    'gambar' : 'lib/gambar/nasibalap.jpeg',
+    'deskripsi' : nasibalap
+  }
 ];
 
 String pecel =
@@ -68,3 +78,13 @@ String sate =
 String soto =
     'Soto, sroto, sauto, tauto, atau coto adalah makanan khas Indonesia seperti sop yang terbuat dari kaldu daging dan sayuran. Daging yang paling sering digunakan adalah daging sapi dan ayam, tetapi ada pula yang menggunakan daging babi atau kambing. Berbagai daerah di Indonesia memiliki soto khas daerahnya masing-masing dengan komposisi yang berbeda-beda, misalnya soto Madura,'
     ' soto Kediri, soto Pemalang, soto Lamongan, soto Jepara, soto Semarang, soto Kudus, soto Betawi, soto Padang, soto Bandung, sroto Sokaraja, soto Banjar, soto Medan, dan coto Makassar. Soto juga diberi nama sesuai isinya, misalnya soto ayam, soto babat, atau soto kambing. Ada pula soto yang dibuat dari daging kaki sapi yang disebut dengan soto sekengkel. ';
+
+String nasirawon =
+    'Rawon adalah masakan Indonesia berupa sup daging berkuah hitam sebagai campuran bumbu khas yang menggunakan kluwek. Rawon, meskipun dikenal sebagai masakan khas Jawa Timur, dikenal pula oleh masyarakat Jawa Tengah sebelah timur (daerah Surakarta).'
+    'Daging untuk rawon umumnya adalah daging sapi yang dipotong kecil-kecil, utamanya adalah bagian sandung lamur. Bumbu supnya sangat khas Indonesia, yaitu campuran bawang merah, bawang putih, lengkuas (laos), ketumbar, kemiri, serai, kunir, cabai, kluwek, garam, serta minyak nabati. Semua bahan ini dihaluskan, lalu ditumis sampai harum. Campuran bumbu ini kemudian dimasukkan dalam kaldu rebusan daging bersama-sama dengan daging. Warna gelap khas rawon berasal dari kluwek. Di luar negeri, rawon disebut sebagai black soup.'
+    'Rawon disajikan bersama nasi, dilengkapi dengan tauge kecil, telur asin, daun bawang, kerupuk udang, daging sapi goreng (empal) dan sambal.';
+
+String nasibalap = 
+    'Jika berkunjung ke Kota Praya, Lombok Tengah, Nusa Tenggara Barat, jangan lupa untuk menyicip kuliner khas yang makin digemari warga Lombok bernama Nasi Balap Puyung. Namanya yang unik ternyata menyimpan sejarah keberadaan kuliner ini di tengah masyarakat Lombok.'
+    'Dalam satu porsi Nasi Balap Puyung berisi nasi putih, ayam suwar-suwir, sayur kacang panjang, kentang kriuk, abon sapi, dan satu potong ayam goreng kampung. Selain bisa disajikan dengan cepat, ciri khas Nasi Balap Puyung juga terletak pada rasa bumbu khas yang ada pada ayam suwar-suwirnya.'
+    'Dijual dengan harga yang terjangkau, Nasi Balap Puyung kini tidak hanya tersedia di malam hari. menu khas Lombok ini kini juga menjadi teman makan siang kebanyakan warga Lombok. Sambalnya yang super pedas, berpadu sempurna dengan rempah ayam suwar-suwir yang cocok di lidah orag Indonesia. Nasi Balap Puyung, satu lagi kuliner khas yang memperkaya khazanah kuliner Nusantara. Hal ini juga membuktikan bahwa keragaman alam dan budaya merupakan salah satu pesona Indonesia, termasuk kekayaan kuliner yang dimiliki Nusantara.';
